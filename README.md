@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raquel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raquelrb" alt="raquelrb" /></a> </p>
+<h3 align="center">A passionate frontend developer from Barcelona</h3>
 
 - 🔭 I’m currently working on [Project_MABA, a website for an interior design company, created with React.js](https://github.com/RaquelRB/Project_MABA)
 
