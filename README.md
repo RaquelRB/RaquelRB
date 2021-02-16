@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raquel</h1>
-<h3 align="center">A passionate frontend developer from Barcelona</h3>
+<h3 align="center">A passionate full-stack developer from Barcelona</h3>
 
-- 🔭 I’m currently working on [Project_MABA, a website for an interior design company, created with React.js](https://github.com/RaquelRB/Project_MABA)
+- 🔭 I’m currently working on [Project_MABA, a website that offers interior design services, created with JavaScript(React.js) and Node.js(Express.js)](https://github.com/RaquelRB/Project_MABA)
 
-- 🌱 I’m currently learning **ReactJs Hooks, Redux, AWS, mySQL**
+- 🌱 I’m currently learning **React Hooks, Redux, AWS, mySQL**
 
-- 📫 How to reach me **raquelrobles95@gmail.com**
+- 📫 **raquelrobles95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
