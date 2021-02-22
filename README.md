@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Project_MABA, a website that offers interior design services, created with JavaScript(React.js) and Node.js(Express.js)](https://github.com/RaquelRB/Project_MABA)
 
-- 🌱 I’m currently learning **React Hooks, Redux, AWS, mySQL**
+- 🌱 I’m currently learning **TypeScript, Redux, AWS**
 
 - 📫 **raquelrobles95@gmail.com**
 
