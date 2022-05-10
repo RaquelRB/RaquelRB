@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raquel</h1>
-<h3 align="center">A passionate full-stack developer from Barcelona</h3>
-
-- 🔭 I’m currently working on [Project_MABA, a website that offers interior design services, created with JavaScript(React.js) and Node.js(Express.js)](https://github.com/RaquelRB/Project_MABA)
-
-- 🌱 I’m currently learning **TypeScript, Redux, AWS**
+<h3 align="center">A passionate software developer from Barcelona</h3>
 
 - 📫 **raquelrobles95@gmail.com**
 
